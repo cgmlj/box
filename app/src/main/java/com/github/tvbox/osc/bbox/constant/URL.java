@@ -15,9 +15,9 @@ public class URL {
     public static final String DEFAULT_API_URL = "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json";
     // public static final String DEFAULT_API_URL = "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json";
     // 默认仓库线路
-    public static final String DEFAULT_STORE_API_URL = "https://w1vhh2q.nat.ipyingshe.com/0.json";
+    public static final String DEFAULT_STORE_API_URL = "";
     // 默认直播线路
-    public static final String DEFAULT_LIVE_URL = "w1vhh2q.nat.ipyingshe.com/live.txt";
+    public static final String DEFAULT_LIVE_URL = "";
 
 
 }
